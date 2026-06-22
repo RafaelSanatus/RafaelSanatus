@@ -1,16 +1,30 @@
-## Hi there 👋
+#Olá, eu sou Rafael
 
-<!--
-**RafaelSanatus/RafaelSanatus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#Sobre mim
 
-Here are some ideas to get you started:
+Sou estudante do 2/3º ano do Ensino Médio e do curso técnico de Informática para Internet na ETEC de Fernandópolis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Também realizo cursos na área de Tecnologia da Informação por fora da escola e possuo certificação em Auxiliar Jurídico.
+
+Tenho interesse em programação, principalmente em hardware, desenvolvimento web, e tecnologia em geral.
+
+#Formação e Cursos
+
+- Ensino Médio em andamento
+- Técnico em Informática para Internet (ETEC)
+- Cursos complementares de Tecnologia da Informação
+- Curso concluído de Auxiliar Jurídico
+
+#Tecnologias
+
+- HTML
+- CSS
+- Java
+- JavaScript
+- PHP
+
+#Objetivos
+
+- Evoluir como desenvolvedor
+- Construir um portfólio profissional
+- Aprender mais sobre tecnologia
